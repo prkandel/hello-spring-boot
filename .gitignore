@@ -1,0 +1,18 @@
+*.class
+
+# Package Files #
+*.war
+*.ear
+
+#java specific
+.classpath
+.project
+.settings
+target
+/target/
+.metadata
+.tmp
+.idea
+.nbproject
+*.iml
+
